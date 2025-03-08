@@ -58,12 +58,12 @@ export function Guarantee() {
                   </h2>
                 </div>
                 <p className="text-lg text-gray-600 mb-6">
-                  Se o agente de IA não melhorar a satisfação do atendimento em pelo menos 20% nos primeiros 60 dias, você recebe 100% do seu investimento de volta.
+                  Se o agente de IA não melhorar a satisfação do atendimento em pelo menos 20% nos primeiros 30 dias, você recebe 100% do seu investimento de volta.
                 </p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <ArrowRight className="h-5 w-5 text-[#2aa3e9] mt-1" />
-                    <p className="text-gray-600">Período de avaliação de 60 dias</p>
+                    <p className="text-gray-600">Período de avaliação de 30 dias</p>
                   </div>
                   <div className="flex items-start gap-3">
                     <ArrowRight className="h-5 w-5 text-[#2aa3e9] mt-1" />

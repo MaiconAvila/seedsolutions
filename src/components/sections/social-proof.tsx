@@ -9,7 +9,7 @@ const stats = [
     icon: <TrendingUp className="h-8 w-8 text-[#2aa3e9]" />,
     value: "20%",
     label: "Aumento Mínimo",
-    description: "na satisfação do cliente em 60 dias"
+    description: "na satisfação do cliente em 30 dias"
   },
   {
     icon: <Clock className="h-8 w-8 text-[#2aa3e9]" />,

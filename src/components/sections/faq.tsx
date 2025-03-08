@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     question: "Qual a garantia oferecida?",
-    answer: "Oferecemos uma garantia de satisfação de 60 dias: se o agente de IA não melhorar a satisfação do atendimento em pelo menos 20% neste período, você recebe 100% do seu investimento de volta. Isso demonstra nossa confiança na eficácia da solução."
+    answer: "Oferecemos uma garantia de satisfação de 30 dias: se o agente de IA não melhorar a satisfação do atendimento em pelo menos 20% neste período, você recebe 100% do seu investimento de volta. Isso demonstra nossa confiança na eficácia da solução."
   },
   {
     question: "Como a solução é desenvolvida?",

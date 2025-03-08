@@ -111,7 +111,7 @@ function Hero() {
             </Button>
           </motion.div>
           <div className="px-4 mt-2 text-center text-sm text-muted-foreground">
-            <p><span className="font-bold text-gray-600">Garantia de satisfação: </span>Melhoria de 20% no atendimento em 60 dias ou seu dinheiro de volta</p>
+            <p><span className="font-bold text-gray-600">Garantia de satisfação: </span>Melhoria de 20% no atendimento em 30 dias ou seu dinheiro de volta</p>
           </div>
         </div>
       </div>

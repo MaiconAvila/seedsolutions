@@ -13,7 +13,7 @@ const options = [
       "🧠 Nível de Experiência": "Time especializado em IA",
       "💬 Comunicação": "Suporte premium",
       "🚀 Primeira Entrega": "14 dias",
-      "📝 Rescisão": "Sem multa, garantia de 60 dias"
+      "📝 Rescisão": "Sem multa, garantia de 30 dias"
     }
   },
   {
