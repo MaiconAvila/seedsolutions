@@ -15,9 +15,7 @@ export function middleware(request: NextRequest) {
     // Prevenir CSRF usando verificação de Origin/Referer
     const origin = request.headers.get('origin');
     const allowedOrigins = [
-      'https://seedsolutions.com', 
-      // Em desenvolvimento
-      'http://localhost:3000'
+      process.env.NEXT_PUBLIC_SITE_URL
     ];
     
     if (!origin || !allowedOrigins.includes(origin)) {

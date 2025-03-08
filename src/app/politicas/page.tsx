@@ -48,7 +48,7 @@ export default function PoliticasPage() {
                   1. Introdução
                 </h2>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  A Seed Solutions está comprometida em proteger sua privacidade. Esta Política de Privacidade explica como coletamos, usamos e protegemos suas informações pessoais.
+                  A Need AI Solutions está comprometida em proteger sua privacidade. Esta Política de Privacidade explica como coletamos, usamos e protegemos suas informações pessoais.
                 </p>
               </section>
 

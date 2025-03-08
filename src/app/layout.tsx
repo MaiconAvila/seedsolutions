@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Seed Solutions",
+  title: "Need AI Solutions",
   description: "Soluções de IA para o seu negócio",
   icons: {
     icon: '/seed.svg', // Caminho relativo à pasta public

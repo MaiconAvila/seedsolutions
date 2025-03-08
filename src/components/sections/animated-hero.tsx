@@ -11,7 +11,7 @@ import { TbCalendarWeek } from "react-icons/tb";
 function Hero() {
   const [titleNumber, setTitleNumber] = useState(0);
   const titles = useMemo(
-    () => ["revolucionário", "inteligente", "personalizado", "eficiente", "24/7"],
+    () => ["Revolucionário", "Inteligente", "Personalizado", "Eficiente", "24/7"],
     []
   );
 
@@ -37,7 +37,7 @@ function Hero() {
           >
             <Image
               src="/seed.svg"
-              alt="Seed Solutions Logo"
+              alt="Need AI Solutions Logo"
               width={200}
               height={67}
             />

@@ -10,7 +10,7 @@ import {
 
 const faqs = [
   {
-    question: "Como a Seed Solutions pode ajudar o meu negócio?",
+    question: "Como a Need AI Solutions pode ajudar o meu negócio?",
     answer: "Podemos transformar seu atendimento ao cliente com agentes de IA personalizados que oferecem respostas precisas 24/7. Nossa solução não apenas melhora a satisfação do cliente, mas também libera sua equipe para focar em atividades estratégicas, resultando em um aumento significativo na eficiência e produtividade do seu negócio."
   },
   {

@@ -67,7 +67,7 @@ export async function POST(request: NextRequest) {
         headers: {
           'Content-Type': 'application/json',
           'Authorization': `${process.env.WEBHOOK_SECRET || ''}`,
-          'X-Source': 'seed-solutions-website'
+          'X-Source': 'need-solutions-website'
         },
         body: JSON.stringify({
           ...validatedData,

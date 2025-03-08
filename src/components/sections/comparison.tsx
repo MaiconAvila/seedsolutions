@@ -6,7 +6,7 @@ import { Card } from "@/components/ui/card"
 
 const options = [
   {
-    title: "Seed Solutions",
+    title: "Need AI Solutions",
     highlights: true,
     features: {
       "⏱️ Tempo para contratar": "Imediato",
@@ -87,7 +87,7 @@ export function Comparison() {
             Compare as Opções
           </h2>
           <p className="text-lg text-gray-600 mx-auto max-w-2xl">
-            Descubra por que a Seed Solutions é a escolha ideal para sua empresa
+            Descubra por que a Need AI Solutions é a escolha ideal para sua empresa
           </p>
         </motion.div>
 

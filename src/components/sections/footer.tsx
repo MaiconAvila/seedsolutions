@@ -18,7 +18,7 @@ export function Footer() {
         <div className="flex flex-col items-center justify-center space-y-4">
           <Image
             src="/seed.svg"
-            alt="Seed Solutions Logo"
+            alt="Need AI Solutions Logo"
             width={150}
             height={50}
             className="mb-4"
@@ -42,7 +42,7 @@ export function Footer() {
               {currentYear}
             </motion.span>
             <span>Todos os direitos reservados por</span>
-            <span className="text-[#2aa3e9] font-semibold">SEED SOLUTIONS LTDA</span>
+            <span className="text-[#2aa3e9] font-semibold">NEED AI SOLUTIONS LTDA</span>
           </div>
         </div>
       </div>
