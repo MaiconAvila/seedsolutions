@@ -17,7 +17,6 @@ export function middleware(request: NextRequest) {
     const allowedOrigins = [
       'https://seedsolutions.com', 
       // Em desenvolvimento
-      // 'https://webhookn8n.maiconavila.com',
       'http://localhost:3000'
     ];
     
