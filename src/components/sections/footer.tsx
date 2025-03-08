@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { motion } from "framer-motion"
 
 export function Footer() {
@@ -15,6 +16,13 @@ export function Footer() {
     >
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4">
+          <Image
+            src="/seed.svg"
+            alt="Seed Solutions Logo"
+            width={150}
+            height={50}
+            className="mb-4"
+          />
           <div className="flex items-center space-x-6 text-sm">
             <Link 
               href="/politicas" 

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { MoveRight, PhoneCall } from "lucide-react";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { GrServerCluster } from "react-icons/gr";
 import { TfiDashboard } from "react-icons/tfi";
@@ -28,7 +29,19 @@ function Hero() {
   return (
     <div className="w-full">
       <div className="container mx-auto">
-        <div className="flex gap-8 py-20 lg:py-40 items-center justify-center flex-col">
+        <div className="flex gap-4 py-20 lg:pb-30 lg:pt-10 items-center justify-center flex-col">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+          >
+            <Image
+              src="/seed.svg"
+              alt="Seed Solutions Logo"
+              width={200}
+              height={67}
+            />
+          </motion.div>
           <div className="flex gap-4 flex-col">
             <h1 className="text-5xl md:text-7xl max-w-2xl tracking-tighter text-center font-regular">
               <span className="text-gray-800">Atendimento ao Cliente</span>
